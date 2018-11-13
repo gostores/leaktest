@@ -6,7 +6,7 @@ Leaktest
 Go 1.7+
 
 ```
-go get -u github.com/gostores/leaktest
+go get -u github.com/govenue/leaktest
 ```
 
 Go 1.5/1.6 need to use the tag `v1.0.0`, as newer versions depend on
